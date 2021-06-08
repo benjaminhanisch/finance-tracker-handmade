@@ -1,0 +1,1 @@
+[{:category_name=>"20-CID-01 Candida spp.", :criteria=>{:collection_number=>{:include=>[1175421, 1164571, 1164476, 1177220, 1169415, 1175443, 1173481]}}}]
